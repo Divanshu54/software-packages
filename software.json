@@ -356,6 +356,6 @@
     "name": "Forticlient",
         "description": "Fortinet SSL VPN",
         "type": "ppa",
-        "recipe": ["deb http://ppa.launchpad.net/ar-lex/fortisslvpn/ubuntu xenial main", "fortisslvpn"]
+        "recipe": ["ppa.launchpad.net/ar-lex/fortisslvpn/ubuntu xenial main", "fortisslvpn"]
          }
 ]
