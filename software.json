@@ -353,9 +353,9 @@
         "recipe": ["ppa:mkropat/ppa", "jumpapp"]
     },
     {
-    "name": "Forticlient",
-        "description": "Fortinet SSL VPN",
+    "name": "Jumpapp2",
+        "description": "Application switcher for Linux",
         "type": "ppa",
-        "recipe": ["ppa.launchpad.net/ar-lex/fortisslvpn/ubuntu xenial main", "fortisslvpn"]
+        "recipe": ["ppa:mkropat/ppa", "jumpapp"]
          }
 ]
